@@ -24,6 +24,8 @@
 </a> <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1sa3de1b_h8bdjaihpcqea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1sa3de1b_h8bdjaihpcqea" height="35" width="45" /></a>
 
 Let's collobrate to transform an innovative idea into an efficient product.
+
+Share your ideas / coding stories to nilesh0059@gmail.com
 </p>
 
 # 📊 GitHub Stats:
