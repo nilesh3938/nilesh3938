@@ -13,7 +13,7 @@
 
 - 🤖 MPLAB IDE | 👾 KEIL IDE | ⌨ SEEGER DEVELOPMENT STUDIO | 📊 MATLAB
 
-- ✔️ Driver Development - UART | SPI | I2C | GPIO  🗄 USB Development - HID & MSD | 🎶 MIDI PROTOCOL | 🌐 TCP/IP | ᛒ Bluetooth |📶 WIFI | 💠 BLYNK APP | 📈 Thingspeak 
+- ✔️ Driver Development - UART | SPI | I2C | GPIO |⏺ RTOS |🗄 USB Development - HID & MSD | 🎶 MIDI PROTOCOL | 🌐 TCP/IP | ᛒ Bluetooth |📶 WIFI | 💠 BLYNK APP | 📈 Thingspeak 
 
 - 🐞 Code Debug | 🕵 Firmware Testing 
 
