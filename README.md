@@ -25,7 +25,7 @@
 
 Let's collobrate to transform an innovative idea into an efficient product.
 
-Share your ideas / coding stories to nilesh0059@gmail.com
+If you have a research idea then share with us to nilesh0059@gmail.com - I'm ready to learn and experiment together.
 </p>
 
 # 📊 GitHub Stats:
