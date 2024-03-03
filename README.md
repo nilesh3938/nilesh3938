@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nilesh Parmar</h1>
 <h3 align="left"> Embedded Software Design Engineer </h3>
 
-## 💫 What Defines My Work?:
+## 💫 What Defines My Work?
 
 👨🏻‍💻 **NPD Enthusiast:** I specialize in New Project Development, where every challenge is an opportunity to innovate. I thrive on transforming diverse and intricate client requirements 
     into streamlined and efficient product solutions.                                                                                                                                     
